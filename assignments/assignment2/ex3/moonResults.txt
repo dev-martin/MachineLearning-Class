@@ -1,0 +1,7 @@
+UID: 116928472      Name: Martin Iglesias       Seed: 13
+Train #  |   Test #  |   Noise   |   EBP_Train_Accuracy   |    EBP_Test_Accuracy
+375           125    0.01                  1.0                  1.0
+375           125    0.1                  1.0                  1.0
+375           125    0.2                  0.974                  0.944
+375           125    0.5                  0.834                  0.824
+375           125    2.0                  0.636                  0.528
